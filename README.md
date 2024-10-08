@@ -1,4 +1,4 @@
-# Lauretta ML Engineer Take-Home Test (Haoran Li)
+# Video Head Count
 
 ## Problem Description
 
